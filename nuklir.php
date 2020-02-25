@@ -4,7 +4,7 @@ error_reporting(0);
     echo "#         Code Nuklir           #\n";
     echo "#      Create By MarsHall       #\n";
     echo "#################################\n";
-    echo "Pilih Nomor 1 - 30 : ";
+    echo "Pilih Nomor 1 - 40 : ";
     $is = trim(fgets(STDIN));
 function http_request($url){
     $ch = curl_init();
